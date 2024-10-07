@@ -31,10 +31,10 @@ author:
   email            : "maltezfaria@gmail.com" 
 
   # Academic websites
-  arxiv            : "http://arxiv.org/a/faria_l_1"
+  arxiv            : # "http://arxiv.org/a/faria_l_1"
   googlescholar    : "https://scholar.google.com/citations?user=lVFC0YwAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-8090-934X"
+  orcid            : # "https://orcid.org/0000-0002-8090-934X"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
