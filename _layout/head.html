@@ -6,16 +6,12 @@
   <meta charset="utf-g" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css"
-    integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous" />
+  <!-- Main CSS -->
   {{ispage "index.md"}}
-  <link href="/css/style.css" rel="stylesheet" />
-  <link href="/css/masthead.css" rel="stylesheet" />
+  <link href="/css/main.css" rel="stylesheet" />
   {{end}}
   {{isnotpage "index.md"}}
-  <link href="../css/style.css" rel="stylesheet" />
-  <link href="../css/masthead.css" rel="stylesheet" />
+  <link href="../css/main.css" rel="stylesheet" />
   {{end}}
 
 
@@ -37,7 +33,6 @@
             <li class="masthead__menu-item {{isactive talks}}"><a href="/talks/index.html">Talks</a></li>
             <li class="masthead__menu-item {{isactive teaching}}"><a href="/teaching/index.html">Teaching</a></li>
             <li class="masthead__menu-item {{isactive code}}"><a href="/code/index.html">Code</a></li>
-            <li class="masthead__menu-item {{isactive other}}"><a href="/other/index.html">Other</a></li>
           </ul>
           <ul class="hidden-links hidden"></ul>
         </nav>

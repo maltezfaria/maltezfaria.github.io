@@ -20,7 +20,7 @@ ignore = ["node_modules/"]
 website_title = "Luiz M. Faria"
 website_descr = "Academic webpage"
 website_url   = "https://maltezfaria.github.io"
-css = ["/css/style.css"]
+css = ["/css/main.css"]
 +++
 
 <!--

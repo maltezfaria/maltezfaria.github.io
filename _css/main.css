@@ -1,0 +1,287 @@
+/* ==========================================================================
+   Consolidated CSS for Luiz M. Faria's Academic Website
+   Replaces: style.css + masthead.css + Bootstrap dependencies
+   ========================================================================== */
+
+/* Basic variables */
+:root {
+  --global-bg-color: #f8f8f8;
+  --global-border-color: #e5e5e5;
+  --sans-serif-narrow: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --link-color: #555555;
+  --inria-red: #e53516;
+  --text-color: #333333;
+}
+
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--sans-serif-narrow);
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: white;
+}
+
+/* Layout container system (replaces Bootstrap grid) */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -0.5rem;
+}
+
+.col-sm-3 {
+  flex: 0 0 25%;
+  padding: 0 0.5rem;
+}
+
+.col-sm-9 {
+  flex: 0 0 75%;
+  padding: 0 0.5rem;
+}
+
+.col-sm-12 {
+  flex: 0 0 100%;
+  padding: 0 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .col-sm-3,
+  .col-sm-9 {
+    flex: 0 0 100%;
+  }
+
+  .row {
+    flex-direction: column;
+  }
+}
+
+/* Masthead styles */
+.masthead {
+  position: sticky;
+  background: var(--global-bg-color);
+  height: fit-content;
+  top: 0;
+  width: 100%;
+  z-index: 20;
+}
+
+.masthead::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  height: 1px;
+  background: var(--global-border-color);
+  width: 100%;
+}
+
+.masthead__inner-wrap {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 1em 1em;
+  font-family: var(--sans-serif-narrow);
+  max-width: 800px;
+}
+
+.masthead__inner-wrap::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.masthead__inner-wrap nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10;
+}
+
+.masthead__inner-wrap a {
+  text-decoration: none;
+  color: var(--link-color);
+  font-size: 1.2em;
+}
+
+.masthead__menu ul.visible-links {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  clear: both;
+  list-style-type: none;
+}
+
+.masthead__menu-item {
+  background-color: var(--global-bg-color);
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+  padding: 0 10px;
+}
+
+.masthead__menu-item--lg {
+  padding-right: 2em;
+  font-weight: 700;
+}
+
+.masthead__menu-item.active a {
+  color: var(--inria-red);
+  font-weight: bold;
+}
+
+.greedy-nav {
+  position: relative;
+}
+
+.greedy-nav button {
+  display: none;
+}
+
+.hidden-links {
+  display: none;
+}
+
+/* Bootstrap replacement utility classes */
+.rounded-circle {
+  border-radius: 50%;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.d-block {
+  display: block;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
+}
+
+/* Content styles (from original style.css) */
+#nameHeader {
+  text-align: center;
+}
+
+#nameHeader > a {
+  color: var(--inria-red);
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+#nameHeader > a:hover {
+  color: #7F7F7F;
+}
+
+#bodyText a {
+  color: #0056b3;
+}
+
+#bodyText p {
+  text-indent: 0em;
+  padding-top: 1ex;
+  padding-bottom: 1ex;
+}
+
+#bodyText ul {
+  list-style: disc;
+}
+
+#bodyText li p {
+  padding-top: 0;
+  padding-bottom: 0.25ex;
+}
+
+#bodyText td {
+  vertical-align: top;
+}
+
+#pageFooter {
+  text-align: center;
+}
+
+table {
+  margin-bottom: 1em;
+}
+
+td {
+  padding: 0 0.5ex;
+}
+
+/* Data entry layouts */
+.data-entry {
+  display: flex;
+  flex-direction: row;
+}
+
+.data-entry p {
+  padding: 0;
+  margin: 0;
+}
+
+.data-entry p:first-child {
+  width: 12ch;
+  flex-shrink: 0;
+  margin-right: 1em;
+}
+
+.data-entry p:last-child {
+  flex-grow: 1;
+}
+
+.publication-entry, .code-entry, .talk-entry {
+  margin-bottom: 1em;
+}
+
+.teaching-entry {
+  margin-bottom: 0.4em;
+}
+
+.code-entry {
+  display: flex;
+  margin-bottom: 1.5em;
+}
+
+.code-entry p:first-child {
+  width: auto;
+  margin-right: 0;
+}
+
+.code-left {
+  flex: 1;
+  padding-right: 1em;
+}
+
+.code-right {
+  flex: 3;
+}
+
+/* Responsive navigation for mobile */
+@media (max-width: 768px) {
+  .masthead__inner-wrap nav {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .masthead__menu ul.visible-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .masthead__menu-item {
+    padding: 0 5px;
+  }
+}
