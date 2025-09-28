@@ -1,0 +1,4 @@
+Sitemap: https://maltezfaria.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
