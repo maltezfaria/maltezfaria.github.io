@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-g" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css"
+    integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous" />
+  {{ispage "index.md"}}
+  <link href="/css/style.css" rel="stylesheet" />
+  <link href="/css/masthead.css" rel="stylesheet" />
+  {{end}}
+  {{isnotpage "index.md"}}
+  <link href="../css/style.css" rel="stylesheet" />
+  <link href="../css/masthead.css" rel="stylesheet" />
+  {{end}}
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="icon" type="image/png" href="/assets/images/logo.png" />
+  <title>Luiz M. Faria</title>
+</head>
+
+<body>
+  <div class="masthead">
+    <div class="masthead__inner-wrap">
+      <div class="masthead__menu">
+        <nav id="site-nav" class="greedy-nav">
+          <a class="masthead__menu-item masthead__menu-item--lg {{isactive index}}" href="/index.html">Luiz M. Faria</a>
+          <ul class="visible-links">
+            <li class="masthead__menu-item {{isactive publications}}"><a
+                href="/publications/index.html">Publications</a></li>
+            <li class="masthead__menu-item {{isactive talks}}"><a href="/talks/index.html">Talks</a></li>
+            <li class="masthead__menu-item {{isactive teaching}}"><a href="/teaching/index.html">Teaching</a></li>
+            <li class="masthead__menu-item {{isactive code}}"><a href="/code/index.html">Code</a></li>
+            <li class="masthead__menu-item {{isactive other}}"><a href="/other/index.html">Other</a></li>
+          </ul>
+          <ul class="hidden-links hidden"></ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row" style="padding-top: 1em; padding-bottom: 1em">
+      <div class="col-sm-3">
+        <img src="/assets/images/profile.png" class="rounded-circle mx-auto d-block" style="width: 75%" alt="My Face" />
+        <div style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
+          <h5 style="margin-bottom: 0.25rem; font-weight: bold;">Luiz M. Faria</h5>
+          <p style="margin-bottom: 0;">Research scientist</p>
+        </div>
+        <ul class="list-unstyled" style="list-style-type: none; padding-left: 0;">
+          <li style="margin-bottom: 5px;"><i class="fas fa-map-marker-alt"></i> &nbsp;Palaiseau, France</li>
+          <li style="margin-bottom: 5px;"><i class="far fa-building"></i> &nbsp;INRIA Saclay</li>
+          <li style="margin-bottom: 5px;"><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:moc.liamg@airafzetlam"
+              style="unicode-bidi: bidi-override; direction: rtl; color: inherit; text-decoration: none;">moc.liamg@airafzetlam</a>
+          </li>
+          <li style="margin-bottom: 5px;"><i class="ai ai-google-scholar"></i> &nbsp;<a
+              href="https://scholar.google.com/citations?user=your_scholar_id">Google Scholar</a></li>
+          <li style="margin-bottom: 5px;"><i class="fab fa-github"></i> &nbsp;<a
+              href="https://github.com/maltezfaria">GitHub</a></li>
+          <li style="margin-bottom: 5px;"><i class="fab fa-linkedin"></i> &nbsp;<a
+              href="https://linkedin.com/in/luiz-faria">LinkedIn</a></li>
+          <li style="margin-bottom: 5px;"><i class="ai ai-arxiv"></i> &nbsp;<a
+              href="https://arxiv.org/a/faria_l_1.html">arXiv</a></li>
+          <li style="margin-bottom: 5px;"><i class="ai ai-hal"></i> &nbsp;<a
+              href="https://cv.hal.science/luiz-faria">HAL</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-9" id="bodyText">
