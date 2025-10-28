@@ -15,7 +15,7 @@ title = "About Me"
   - my [LinkedIn profile](https://www.linkedin.com/in/luiz-faria/) for more about
     my professional background
   - my [Google Scholar
-    profile](https://scholar.google.com/citations?user=8Z6Z9YQAAAAJ&hl=en) for
+    profile](https://scholar.google.com/citations?hl=en&user=lVFC0YwAAAAJ) for
     and overview of my research and publications
   - and my [GitHub profile](https://github.com/maltezfaria) for some examples of
     code/software I have developed
