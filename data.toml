@@ -5,619 +5,689 @@
 # ----------------
 
 [[publications]]
-  category = "Preprint"
-  authors = "Faria, Luiz M. and Marchand, Pierre and Montanelli, Hadrien"
-  title = "Convergence rates of curved boundary element methods for the 3D Laplace and Helmholtz equations"
-  publication = "arXiv preprint arXiv:2507.13955"
-  year = 2025
-  arxiv_link = "https://arxiv.org/pdf/2507.13955"
-  hal_link = "https://hal.science/hal-05200671v1/document"
+category = "Preprint"
+authors = "Faria, Luiz M. and Marchand, Pierre and Montanelli, Hadrien"
+title = "Convergence rates of curved boundary element methods for the 3D Laplace and Helmholtz equations"
+publication = "arXiv preprint arXiv:2507.13955"
+year = 2025
+arxiv_link = "https://arxiv.org/pdf/2507.13955"
+hal_link = "https://hal.science/hal-05200671v1/document"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Monteghetti, Florian"
-  title = "A complex-scaled boundary integral equation for the embedded eigenvalues and complex resonances of the Neumann-Poincaré operator on domains with corners"
-  publication = "Computers & Mathematics with Applications"
-  volume = "197"
-  pages = "135--166"
-  year = 2025
-  publisher = "Elsevier"
-  hal_link = "https://hal.science/hal-04970403v1/file/faria-monteghetti-neumann-poincare-scaled.pdf"
+category = "Journal"
+authors = "Faria, Luiz M. and Monteghetti, Florian"
+title = "A complex-scaled boundary integral equation for the embedded eigenvalues and complex resonances of the Neumann-Poincaré operator on domains with corners"
+publication = "Computers & Mathematics with Applications"
+volume = "197"
+pages = "135--166"
+year = 2025
+publisher = "Elsevier"
+hal_link = "https://hal.science/hal-04970403v1/file/faria-monteghetti-neumann-poincare-scaled.pdf"
 
 [[publications]]
-  category = "Journal"
-  authors = "Dhia, Anne-Sophie Bonnet-Ben and Faria, Luiz M. and Pérez-Arancibia, Carlos"
-  title = "A complex-scaled boundary integral equation for time-harmonic water waves"
-  publication = "SIAM Journal on Applied Mathematics"
-  volume = "84"
-  number = "4"
-  pages = "1532--1556"
-  year = 2024
-  publisher = "Society for Industrial and Applied Mathematics"
-  arxiv_link = "https://arxiv.org/pdf/2310.04127"
+category = "Journal"
+authors = "Dhia, Anne-Sophie Bonnet-Ben and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "A complex-scaled boundary integral equation for time-harmonic water waves"
+publication = "SIAM Journal on Applied Mathematics"
+volume = "84"
+number = "4"
+pages = "1532--1556"
+year = 2024
+publisher = "Society for Industrial and Applied Mathematics"
+arxiv_link = "https://arxiv.org/pdf/2310.04127"
 
 [[publications]]
-  category = "Journal"
-  authors = "Anderson, Thomas G and Bonnet, Marc and Faria, Luiz M. and Pérez-Arancibia, Carlos"
-  title = "Fast, high-order numerical evaluation of volume potentials via polynomial density interpolation"
-  publication = "Journal of Computational Physics"
-  volume = "511"
-  pages = "113091"
-  year = 2024
-  publisher = "Academic Press"
+category = "Journal"
+authors = "Anderson, Thomas G and Bonnet, Marc and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "Fast, high-order numerical evaluation of volume potentials via polynomial density interpolation"
+publication = "Journal of Computational Physics"
+volume = "511"
+pages = "113091"
+year = 2024
+publisher = "Academic Press"
 
 [[publications]]
-  category = "Journal"
-  authors = "Veiga-López, Fernando and Faria, Luiz M. and Melguizo-Gavilanes, J"
-  title = "Heat and momentum losses in H 2--O 2--N 2/Ar detonations: on the existence of set-valued solutions with detailed thermochemistry"
-  publication = "Shock Waves"
-  volume = "34"
-  number = "3"
-  pages = "273--283"
-  year = 2024
-  publisher = "Springer"
+category = "Journal"
+authors = "Veiga-López, Fernando and Faria, Luiz M. and Melguizo-Gavilanes, J"
+title = "Heat and momentum losses in H 2--O 2--N 2/Ar detonations: on the existence of set-valued solutions with detailed thermochemistry"
+publication = "Shock Waves"
+volume = "34"
+number = "3"
+pages = "273--283"
+year = 2024
+publisher = "Springer"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Pérez-Arancibia, Carlos and Turc, Catalin"
-  title = "Combined field-only boundary integral equations for PEC electromagnetic scattering problem in spherical geometries"
-  publication = "SIAM Journal on Applied Mathematics"
-  volume = "84"
-  number = "1"
-  pages = "19--38"
-  year = 2024
-  publisher = "Society for Industrial and Applied Mathematics"
+category = "Journal"
+authors = "Faria, Luiz M. and Pérez-Arancibia, Carlos and Turc, Catalin"
+title = "Combined field-only boundary integral equations for PEC electromagnetic scattering problem in spherical geometries"
+publication = "SIAM Journal on Applied Mathematics"
+volume = "84"
+number = "1"
+pages = "19--38"
+year = 2024
+publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
-  category = "Journal"
-  authors = "Anderson, Thomas G and Bonnet, Marc and Faria, Luiz M. and Pérez-Arancibia, Carlos"
-  title = "Construction of polynomial particular solutions of linear constant-coefficient partial differential equations"
-  publication = "Computers & Mathematics with Applications"
-  volume = "162"
-  pages = "94--103"
-  year = 2024
-  publisher = "Pergamon"
+category = "Journal"
+authors = "Anderson, Thomas G and Bonnet, Marc and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "Construction of polynomial particular solutions of linear constant-coefficient partial differential equations"
+publication = "Computers & Mathematics with Applications"
+volume = "162"
+pages = "94--103"
+year = 2024
+publisher = "Pergamon"
 
 [[publications]]
-  category = "Journal"
-  authors = "Goldin, Andrei Yu and Magomedov, Shamil M and Faria, Luiz M. and Kasimov, Aslan R"
-  title = "Study of a qualitative model for combustion waves: Flames, detonations, and deflagration-to-detonation transition"
-  publication = "Computers & Fluids"
-  volume = "273"
-  pages = "106213"
-  year = 2024
-  publisher = "Pergamon"
+category = "Journal"
+authors = "Goldin, Andrei Yu and Magomedov, Shamil M and Faria, Luiz M. and Kasimov, Aslan R"
+title = "Study of a qualitative model for combustion waves: Flames, detonations, and deflagration-to-detonation transition"
+publication = "Computers & Fluids"
+volume = "273"
+pages = "106213"
+year = 2024
+publisher = "Pergamon"
 
 [[publications]]
-  category = "Journal"
-  authors = "Strauszer-Caussade, Thomas and Faria, Luiz M. and Fernandez-Lado, Agustín and Pérez-Arancibia, Carlos"
-  title = "Windowed Green function method for wave scattering by periodic arrays of 2D obstacles"
-  publication = "Studies in Applied Mathematics"
-  volume = "150"
-  number = "1"
-  pages = "277--315"
-  year = 2023
+category = "Journal"
+authors = "Strauszer-Caussade, Thomas and Faria, Luiz M. and Fernandez-Lado, Agustín and Pérez-Arancibia, Carlos"
+title = "Windowed Green function method for wave scattering by periodic arrays of 2D obstacles"
+publication = "Studies in Applied Mathematics"
+volume = "150"
+number = "1"
+pages = "277--315"
+year = 2023
 
 [[publications]]
-  category = "Journal"
-  authors = "Veiga-Lopez, Fernando and Faria, Luiz M. and Melguizo-Gavilanes, Josué"
-  title = "Influence of chemistry on the steady solutions of hydrogen gaseous detonations with friction losses"
-  publication = "Combustion and Flame"
-  volume = "240"
-  pages = "112050"
-  year = 2022
-  publisher = "Elsevier"
+category = "Journal"
+authors = "Veiga-Lopez, Fernando and Faria, Luiz M. and Melguizo-Gavilanes, Josué"
+title = "Influence of chemistry on the steady solutions of hydrogen gaseous detonations with friction losses"
+publication = "Combustion and Flame"
+volume = "240"
+pages = "112050"
+year = 2022
+publisher = "Elsevier"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Pérez-Arancibia, Carlos and Bonnet, Marc"
-  title = "General-purpose kernel regularization of boundary integral equations via density interpolation"
-  publication = "Computer Methods in Applied Mechanics and Engineering"
-  volume = "378"
-  pages = "113703"
-  year = 2021
-  publisher = "North-Holland"
+category = "Journal"
+authors = "Faria, Luiz M. and Pérez-Arancibia, Carlos and Bonnet, Marc"
+title = "General-purpose kernel regularization of boundary integral equations via density interpolation"
+publication = "Computer Methods in Applied Mechanics and Engineering"
+volume = "378"
+pages = "113703"
+year = 2021
+publisher = "North-Holland"
 
 [[publications]]
-  category = "Journal"
-  authors = "Melguizo-Gavilanes, J and Ballossier, Yves and Faria, Luiz M."
-  title = "Experimental and theoretical observations on DDT in smooth narrow channels"
-  publication = "Proceedings of the Combustion Institute"
-  volume = "38"
-  number = "3"
-  pages = "3497--3503"
-  year = 2021
-  publisher = "Elsevier"
+category = "Journal"
+authors = "Melguizo-Gavilanes, J and Ballossier, Yves and Faria, Luiz M."
+title = "Experimental and theoretical observations on DDT in smooth narrow channels"
+publication = "Proceedings of the Combustion Institute"
+volume = "38"
+number = "3"
+pages = "3497--3503"
+year = 2021
+publisher = "Elsevier"
 
 [[publications]]
-  category = "Journal"
-  authors = "Mickelin, Oscar and Słomka, Jonasz and Burns, Keaton J and Lecoanet, Daniel and Vasil, Geoffrey M and Faria, Luiz M. and Dunkel, Jörn"
-  title = "Anomalous chained turbulence in actively driven flows on spheres"
-  publication = "Physical review letters"
-  volume = "120"
-  number = "16"
-  pages = "164503"
-  year = 2018
-  publisher = "American Physical Society"
+category = "Journal"
+authors = "Mickelin, Oscar and Słomka, Jonasz and Burns, Keaton J and Lecoanet, Daniel and Vasil, Geoffrey M and Faria, Luiz M. and Dunkel, Jörn"
+title = "Anomalous chained turbulence in actively driven flows on spheres"
+publication = "Physical review letters"
+volume = "120"
+number = "16"
+pages = "164503"
+year = 2018
+publisher = "American Physical Society"
 
 [[publications]]
-  category = "Journal"
-  authors = "Pérez-Arancibia, Carlos and Faria, Luiz M. and Turc, Catalin"
-  title = "Harmonic density interpolation methods for high-order evaluation of Laplace layer potentials in 2D and 3D"
-  publication = "Journal of Computational Physics"
-  volume = "376"
-  pages = "411--434"
-  year = 2019
-  publisher = "Academic Press"
+category = "Journal"
+authors = "Pérez-Arancibia, Carlos and Faria, Luiz M. and Turc, Catalin"
+title = "Harmonic density interpolation methods for high-order evaluation of Laplace layer potentials in 2D and 3D"
+publication = "Journal of Computational Physics"
+volume = "376"
+pages = "411--434"
+year = 2019
+publisher = "Academic Press"
 
 [[publications]]
-  category = "Journal"
-  authors = "Harris, Daniel M and Brun, P-T and Damiano, Adam and Faria, Luiz M. and Bush, John WM"
-  title = "The interaction of a walking droplet and a submerged pillar: From scattering to the logarithmic spiral"
-  publication = "Chaos: An Interdisciplinary Journal of Nonlinear Science"
-  volume = "28"
-  number = "9"
-  year = 2018
-  publisher = "AIP Publishing"
+category = "Journal"
+authors = "Harris, Daniel M and Brun, P-T and Damiano, Adam and Faria, Luiz M. and Bush, John WM"
+title = "The interaction of a walking droplet and a submerged pillar: From scattering to the logarithmic spiral"
+publication = "Chaos: An Interdisciplinary Journal of Nonlinear Science"
+volume = "28"
+number = "9"
+year = 2018
+publisher = "AIP Publishing"
 
 [[publications]]
-  category = "Journal"
-  authors = "Labarca, Ignacio and Faria, Luiz M. and Pérez-Arancibia, Carlos"
-  title = "Convolution quadrature methods for time-domain scattering from unbounded penetrable interfaces"
-  publication = "Proceedings of the Royal Society A"
-  volume = "475"
-  number = "2227"
-  pages = "20190029"
-  year = 2019
-  publisher = "The Royal Society Publishing"
+category = "Journal"
+authors = "Labarca, Ignacio and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "Convolution quadrature methods for time-domain scattering from unbounded penetrable interfaces"
+publication = "Proceedings of the Royal Society A"
+volume = "475"
+number = "2227"
+pages = "20190029"
+year = 2019
+publisher = "The Royal Society Publishing"
 
 [[publications]]
-  category = "Journal"
-  authors = "Pérez-Arancibia, Carlos and Turc, Catalin and Faria, Luiz M."
-  title = "Planewave density interpolation methods for 3D Helmholtz boundary integral equations"
-  publication = "SIAM Journal on Scientific Computing"
-  volume = "41"
-  number = "4"
-  pages = "A2088--A2116"
-  year = 2019
-  publisher = "Society for Industrial and Applied Mathematics"
+category = "Journal"
+authors = "Pérez-Arancibia, Carlos and Turc, Catalin and Faria, Luiz M."
+title = "Planewave density interpolation methods for 3D Helmholtz boundary integral equations"
+publication = "SIAM Journal on Scientific Computing"
+volume = "41"
+number = "4"
+pages = "A2088--A2116"
+year = 2019
+publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
-  category = "Journal"
-  authors = "Pérez-Arancibia, Carlos and Turc, Catalin and Faria, Luiz M. and Sideris, Constantine"
-  title = "Planewave density interpolation methods for the EFIE on simple and composite surfaces"
-  publication = "IEEE Transactions on Antennas and Propagation"
-  volume = "69"
-  number = "1"
-  pages = "317--331"
-  year = 2020
-  publisher = "IEEE"
+category = "Journal"
+authors = "Pérez-Arancibia, Carlos and Turc, Catalin and Faria, Luiz M. and Sideris, Constantine"
+title = "Planewave density interpolation methods for the EFIE on simple and composite surfaces"
+publication = "IEEE Transactions on Antennas and Propagation"
+volume = "69"
+number = "1"
+pages = "317--331"
+year = 2020
+publisher = "IEEE"
 
 [[publications]]
-  category = "Journal"
-  authors = "Pucci, Giuseppe and Harris, Daniel M and Faria, Luiz M. and Bush, John WM"
-  title = "Walking droplets interacting with single and double slits"
-  publication = "Journal of Fluid Mechanics"
-  volume = "835"
-  pages = "1136--1156"
-  year = 2018
-  publisher = "Cambridge University Press"
+category = "Journal"
+authors = "Pucci, Giuseppe and Harris, Daniel M and Faria, Luiz M. and Bush, John WM"
+title = "Walking droplets interacting with single and double slits"
+publication = "Journal of Fluid Mechanics"
+volume = "835"
+pages = "1136--1156"
+year = 2018
+publisher = "Cambridge University Press"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M."
-  title = "A model for Faraday pilot waves over variable topography"
-  publication = "Journal of Fluid Mechanics"
-  volume = "811"
-  pages = "51--66"
-  year = 2017
-  publisher = "Cambridge University Press"
+category = "Journal"
+authors = "Faria, Luiz M."
+title = "A model for Faraday pilot waves over variable topography"
+publication = "Journal of Fluid Mechanics"
+volume = "811"
+pages = "51--66"
+year = 2017
+publisher = "Cambridge University Press"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Rosales, Rodolfo R"
-  title = "Equation level matching: An extension of the method of matched asymptotic expansion for problems of wave propagation"
-  publication = "Studies in Applied Mathematics"
-  volume = "139"
-  number = "2"
-  pages = "265--287"
-  year = 2017
+category = "Journal"
+authors = "Faria, Luiz M. and Rosales, Rodolfo R"
+title = "Equation level matching: An extension of the method of matched asymptotic expansion for problems of wave propagation"
+publication = "Studies in Applied Mathematics"
+volume = "139"
+number = "2"
+pages = "265--287"
+year = 2017
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Kasimov, Aslan R"
-  title = "Qualitative modeling of the dynamics of detonations with losses"
-  publication = "Proceedings of the Combustion Institute"
-  volume = "35"
-  number = "2"
-  year = 2015
-  publisher = "Elsevier"
+category = "Journal"
+authors = "Faria, Luiz M. and Kasimov, Aslan R"
+title = "Qualitative modeling of the dynamics of detonations with losses"
+publication = "Proceedings of the Combustion Institute"
+volume = "35"
+number = "2"
+year = 2015
+publisher = "Elsevier"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Kasimov, Aslan R and Rosales, Rodolfo R"
-  title = "Theory of weakly nonlinear self-sustained detonations"
-  publication = "Journal of Fluid Mechanics"
-  volume = "784"
-  pages = "163--198"
-  year = 2015
-  publisher = "Cambridge University Press"
+category = "Journal"
+authors = "Faria, Luiz M. and Kasimov, Aslan R and Rosales, Rodolfo R"
+title = "Theory of weakly nonlinear self-sustained detonations"
+publication = "Journal of Fluid Mechanics"
+volume = "784"
+pages = "163--198"
+year = 2015
+publisher = "Cambridge University Press"
 
 [[publications]]
-  category = "Journal"
-  authors = "Semenko, Roman and Faria, Luiz M. and Kasimov, Aslan R and Ermolaev, BS"
-  title = "Set-valued solutions for non-ideal detonation"
-  publication = "Shock Waves"
-  volume = "26"
-  number = "2"
-  pages = "141--160"
-  year = 2016
-  publisher = "Springer"
+category = "Journal"
+authors = "Semenko, Roman and Faria, Luiz M. and Kasimov, Aslan R and Ermolaev, BS"
+title = "Set-valued solutions for non-ideal detonation"
+publication = "Shock Waves"
+volume = "26"
+number = "2"
+pages = "141--160"
+year = 2016
+publisher = "Springer"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Kasimov, Aslan R and Rosales, Rodolfo R"
-  title = "Study of a model equation in detonation theory: multidimensional effects"
-  publication = "SIAM Journal on Applied Mathematics"
-  volume = "76"
-  number = "3"
-  pages = "887--909"
-  year = 2016
-  publisher = "Society for Industrial and Applied Mathematics"
+category = "Journal"
+authors = "Faria, Luiz M. and Kasimov, Aslan R and Rosales, Rodolfo R"
+title = "Study of a model equation in detonation theory: multidimensional effects"
+publication = "SIAM Journal on Applied Mathematics"
+volume = "76"
+number = "3"
+pages = "887--909"
+year = 2016
+publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
-  category = "Journal"
-  authors = "Pucci, Giuseppe and Sáenz, Pedro J and Faria, Luiz M. and Bush, John WM"
-  title = "Non-specular reflection of walking droplets"
-  publication = "Journal of Fluid Mechanics"
-  volume = "804"
-  pages = "R3"
-  year = 2016
-  publisher = "Cambridge University Press"
+category = "Journal"
+authors = "Pucci, Giuseppe and Sáenz, Pedro J and Faria, Luiz M. and Bush, John WM"
+title = "Non-specular reflection of walking droplets"
+publication = "Journal of Fluid Mechanics"
+volume = "804"
+pages = "R3"
+year = 2016
+publisher = "Cambridge University Press"
 
 [[publications]]
-  category = "Journal"
-  authors = "Kasimov, AR and Faria, Luiz M. and Rosales, RR"
-  title = "On a Theoretical Prediction of the Dynamics of Pulsating and Cellular Detonations in Gases"
-  publication = "Combustion and Explosion"
-  volume = "9"
-  number = "2"
-  pages = "42--50"
-  year = 2016
+category = "Journal"
+authors = "Kasimov, AR and Faria, Luiz M. and Rosales, RR"
+title = "On a Theoretical Prediction of the Dynamics of Pulsating and Cellular Detonations in Gases"
+publication = "Combustion and Explosion"
+volume = "9"
+number = "2"
+pages = "42--50"
+year = 2016
 
 [[publications]]
-  category = "Journal"
-  authors = "Kasimov, Aslan R and Faria, Luiz M. and Rosales, Rodolfo R"
-  title = "Model for shock wave chaos"
-  publication = "Physical review letters"
-  volume = "110"
-  number = "10"
-  pages = "104104"
-  year = 2013
-  publisher = "American Physical Society"
+category = "Journal"
+authors = "Kasimov, Aslan R and Faria, Luiz M. and Rosales, Rodolfo R"
+title = "Model for shock wave chaos"
+publication = "Physical review letters"
+volume = "110"
+number = "10"
+pages = "104104"
+year = 2013
+publisher = "American Physical Society"
 
 [[publications]]
-  category = "Journal"
-  authors = "Faria, Luiz M. and Kasimov, Aslan R and Rosales, Rodolfo R"
-  title = "Study of a model equation in detonation theory"
-  publication = "SIAM Journal on Applied Mathematics"
-  volume = "74"
-  number = "2"
-  pages = "547--570"
-  year = 2014
-  publisher = "Society for Industrial and Applied Mathematics"
+category = "Journal"
+authors = "Faria, Luiz M. and Kasimov, Aslan R and Rosales, Rodolfo R"
+title = "Study of a model equation in detonation theory"
+publication = "SIAM Journal on Applied Mathematics"
+volume = "74"
+number = "2"
+pages = "547--570"
+year = 2014
+publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
-  category = "Proceedings"
-  authors = "Anderson, Thomas G and Faria, Luiz M. and Pérez-Arancibia, Carlos"
-  title = "SOLVING BOUNDARY AND VOLUME INTEGRAL EQUATIONS WITH INTI. JL"
-  publication = "16th International Conference on Mathematical and Numerical Aspects of Wave Propagation, WAVES 2024"
-  year = 2024
+category = "Proceedings"
+authors = "Anderson, Thomas G and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "SOLVING BOUNDARY AND VOLUME INTEGRAL EQUATIONS WITH INTI. JL"
+publication = "16th International Conference on Mathematical and Numerical Aspects of Wave Propagation, WAVES 2024"
+year = 2024
 
 [[publications]]
-  category = "Proceedings"
-  authors = "Arrieta, Rodrigo and Faria, Luiz M. and Perez-Arancibia, Carlos and Turc, Catalin"
-  title = "A High-order Density-Interpolation-Based Nyström Method for Three-Dimensional Electromagnetic Boundary Integral Equations"
-  publication = "15th International Conference on Mathematical and Numerical Aspects of Wave Propagation, WAVES 2022"
-  pages = "158--159"
-  year = 2022
+category = "Proceedings"
+authors = "Arrieta, Rodrigo and Faria, Luiz M. and Perez-Arancibia, Carlos and Turc, Catalin"
+title = "A High-order Density-Interpolation-Based Nyström Method for Three-Dimensional Electromagnetic Boundary Integral Equations"
+publication = "15th International Conference on Mathematical and Numerical Aspects of Wave Propagation, WAVES 2022"
+pages = "158--159"
+year = 2022
 
 [[publications]]
-  category = "Proceedings"
-  authors = "Faria, Luiz M. and Lau-Chapdelaine, Shem and Kasimov, Aslan R and Rosales, Rodolfo R"
-  title = "A toy model for detonations and flames"
-  publication = "26th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS)"
-  year = 2017
+category = "Proceedings"
+authors = "Faria, Luiz M. and Lau-Chapdelaine, Shem and Kasimov, Aslan R and Rosales, Rodolfo R"
+title = "A toy model for detonations and flames"
+publication = "26th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS)"
+year = 2017
 
 [[publications]]
-  category = "Proceedings"
-  authors = "Lau-Chapdelaine, S and Faria, Luiz M. and Rosales, RR and Radulescu, MI"
-  title = "Planar Blast Initiation of Detonations Using a Simplified Model"
-  publication = "26th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS)"
-  year = 2017
+category = "Proceedings"
+authors = "Lau-Chapdelaine, S and Faria, Luiz M. and Rosales, RR and Radulescu, MI"
+title = "Planar Blast Initiation of Detonations Using a Simplified Model"
+publication = "26th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS)"
+year = 2017
 
 # ----------------
 # -- Teaching
 # ----------------
 
 [[teaching]]
-  year = "2024 - 2025"
-  title = "Numerical Linear Algebra"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
+year = "2024 - 2025"
+title = "Numerical Linear Algebra"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
 
 [[teaching]]
-  year = "2024 - 2025"
-  title = "Scientific Computing in C++"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
+year = "2024 - 2025"
+title = "Scientific Computing in C++"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
 
 
 [[teaching]]
-  year = "2024 - 2025"
-  title = "Numerical simulation project"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
+year = "2024 - 2025"
+title = "Numerical simulation project"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
 
 [[teaching]]
-  year = "2023 - 2024"
-  title = "Numerical linear algebra"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
+year = "2023 - 2024"
+title = "Numerical linear algebra"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
 
 [[teaching]]
-  year = "2023 - 2024"
-  title = "Scientific Computing in C++"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
+year = "2023 - 2024"
+title = "Scientific Computing in C++"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
 
 [[teaching]]
-  year = "2023 - 2024"
-  title = "Numerical simulation project"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
+year = "2023 - 2024"
+title = "Numerical simulation project"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
 
 [[teaching]]
-  year = "2022 - 2023"
-  title = "Numerical linear algebra"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
+year = "2022 - 2023"
+title = "Numerical linear algebra"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
 
 [[teaching]]
-  year = "2022 - 2023"
-  title = "Scientific Computing in C++"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
+year = "2022 - 2023"
+title = "Scientific Computing in C++"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
 
 [[teaching]]
-  year = "2022 - 2023"
-  title = "Numerical simulation project"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
+year = "2022 - 2023"
+title = "Numerical simulation project"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
 
 [[teaching]]
-  year = "2021 - 2022"
-  title = "Finite and boundary elements: parallelization and coupling"
-  location = "ENSTA"
-  level = "3A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/6182/AMS313-elements-finis-et-elements-de-frontiere-parallelisation-couplage"
+year = "2021 - 2022"
+title = "Finite and boundary elements: parallelization and coupling"
+location = "ENSTA"
+level = "3A"
+link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/6182/AMS313-elements-finis-et-elements-de-frontiere-parallelisation-couplage"
 
 [[teaching]]
-  year = "2021 - 2022"
-  title = "Numerical linear algebra"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
+year = "2021 - 2022"
+title = "Numerical linear algebra"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
 
 [[teaching]]
-  year = "2021 - 2022"
-  title = "Scientific Computing in C++"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
+year = "2021 - 2022"
+title = "Scientific Computing in C++"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
 
 [[teaching]]
-  year = "2021 - 2022"
-  title = "Numerical simulation project"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
+year = "2021 - 2022"
+title = "Numerical simulation project"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
 
 [[teaching]]
-  year = "2020 - 2021"
-  title = "Finite and boundary elements: parallelization and coupling"
-  location = "ENSTA"
-  level = "3A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/6182/AMS313-elements-finis-et-elements-de-frontiere-parallelisation-couplage"
+year = "2020 - 2021"
+title = "Finite and boundary elements: parallelization and coupling"
+location = "ENSTA"
+level = "3A"
+link = "https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/6182/AMS313-elements-finis-et-elements-de-frontiere-parallelisation-couplage"
 
 [[teaching]]
-  year = "2020 - 2021"
-  title = "Scientific Computing in C++"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
+year = "2020 - 2021"
+title = "Scientific Computing in C++"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
 
 [[teaching]]
-  year = "2020 - 2021"
-  title = "Numerical simulation project"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
+year = "2020 - 2021"
+title = "Numerical simulation project"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
 
 [[teaching]]
-  year = "2019 - 2020"
-  title = "Finite Elements"
-  location = "ENSTA"
-  level = "2A"
-  link = "https://synapses.ensta-paris.fr/catalogue/2019-2020/ue/212/ANN201-elements-finis"
+year = "2019 - 2020"
+title = "Finite Elements"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2019-2020/ue/212/ANN201-elements-finis"
 
 [[teaching]]
-  year = "2017 - 2018"
-  title = "Principles of Continuum Applied Mathematics"
-  location = "MIT"
-  level = "third year undergrad"
+year = "2017 - 2018"
+title = "Principles of Continuum Applied Mathematics"
+location = "MIT"
+level = "third year undergrad"
 
 [[teaching]]
-  year = "2016 - 2017"
-  title = "Seminar in Physical Applied Mathematics"
-  location = "MIT"
-  level = "fourth year undergrad"
+year = "2016 - 2017"
+title = "Seminar in Physical Applied Mathematics"
+location = "MIT"
+level = "fourth year undergrad"
 
 [[teaching]]
-  year = "2016 - 2017"
-  title = "Principles of Continuum Applied Mathematics"
-  location = "MIT"
-  level = "third year undergrad"
+year = "2016 - 2017"
+title = "Principles of Continuum Applied Mathematics"
+location = "MIT"
+level = "third year undergrad"
 
 [[teaching]]
-  year = "2016 - 2017"
-  title = "Seminar in Physical Applied Mathematics"
-  location = "MIT"
-  level = "fourth year undergrad"
+year = "2016 - 2017"
+title = "Seminar in Physical Applied Mathematics"
+location = "MIT"
+level = "fourth year undergrad"
 
 [[teaching]]
-  year = "2015 - 2016"
-  title = "Principles of Continuum Applied Mathematics"
-  location = "MIT"
-  level = "third year undergrad"
+year = "2015 - 2016"
+title = "Principles of Continuum Applied Mathematics"
+location = "MIT"
+level = "third year undergrad"
 
 [[teaching]]
-  year = "2015 - 2016"
-  title = "Ordinary Differential Equations"
-  location = "MIT"
-  level = "first year undergrad"
+year = "2015 - 2016"
+title = "Ordinary Differential Equations"
+location = "MIT"
+level = "first year undergrad"
 
 [[teaching]]
-  year = "2011 - 2012"
-  title = "Applied PDE I"
-  location = "KAUST"
-  level = "first year master"
+year = "2011 - 2012"
+title = "Applied PDE I"
+location = "KAUST"
+level = "first year master"
 
 # ----------------
 # -- Codes
 # ----------------
 
 [[codes]]
-  repo = "IntegralEquations/Inti.jl"
-
-
-[[codes]]
-  repo = "IntegralEquations/HMatrices.jl"
+repo = "IntegralEquations/Inti.jl"
 
 [[codes]]
-  repo = "maltezfaria/DataFlowTasks.jl"
+repo = "IntegralEquations/HMatrices.jl"
 
 [[codes]]
-  repo = "maltezfaria/LevelSetMethods.jl"
+repo = "maltezfaria/DataFlowTasks.jl"
 
 [[codes]]
-  repo = "maltezfaria/ImplicitIntegration.jl"  
+repo = "maltezfaria/LevelSetMethods.jl"
+
+[[codes]]
+repo = "maltezfaria/ImplicitIntegration.jl"
 
 # ----------------
 # -- Talks
 # ----------------
+[[talks]]
+year = 2024
+title = "High-order boundary integral equation methods on implicit surfaces"
+event = "Workshop on Singular and Oscillatory Quadrature, UCL"
+location = "London, England"
 
 [[talks]]
-  year = 2021
-  title = "La simulation numérique au service des phénomènes physiques"
-  event = "Unithé ou café"
-  location = "INRIA Saclay, France"
+year = 2024
+title = "Solving boundary and volume integral equations with Inti.jl"
+event = "WAVES 2024"
+location = "Berlin, Germany"
 
 [[talks]]
-  year = 2020
-  title = "Boundary integral equation methods on dynamic surfaces"
-  event = "INRIA-Skoltech Workshop"
-  location = "Online"
+year = 2024
+title = "H-matrices as a compression tool in boundary integral equations"
+event = "Seminar at INRIA Bordeaux"
+location = "Bordeaux, France"
 
 [[talks]]
-  year = 2020
-  title = "Mathematical modeling and numerical simulations of Faraday pilot waves"
-  event = "PUC"
-  location = "Santiago, Chile"
+year = 2024
+title = "Solving boundary and volume integral equations with Inti.jl"
+event = "JuliaCon Global"
+location = "Eindhoven, Netherlands"
 
 [[talks]]
-  year = 2019
-  title = "Computing the Mandelbrot set in Julia"
-  event = "SED coding dojo"
-  location = "INRIA Saclay, France"
+year = 2024
+title = "Complex-scaled boundary integral equations (with applications to water-waves and plasmonics)"
+event = "POEMS Retreat"
+location = "Domaine de Saint Paul, Saint-Rémy-lès-Chevreuse, France"
 
 [[talks]]
-  year = 2019
-  title = "Harmonic density interpolation methods for high-order evaluation of Laplace layer potentials in 2D and 3D"
-  event = "ENSTA"
-  location = "Palaiseau, France"
+year = 2023
+title = "High-order boundary integral equation methods on implicit surfaces"
+event = "SIAM CSE"
+location = "Amsterdam, The Netherlands"
 
 [[talks]]
-  year = 2017
-  title = "A model for Faraday pilot-waves over variable topography"
-  event = "Universidad Autonoma de Mexico"
-  location = "Mexico City, Mexico"
+year = 2023
+title = "Complex-scaled boundary integral equations for complex resonances"
+event = "Plasmonic Day"
+location = "Université de Marseille, France"
 
 [[talks]]
-  year = 2017
-  title = "Asymptotic theory of weak heat release combustion"
-  event = "New Jersey Institute of Technology"
-  location = "Newark, NJ, USA"
+year = 2023
+title = "DataFlowTasks.jl Julia Tasks which automatically handle data-dependencies"
+event = "JuliaCon Local"
+location = "Eindhoven, The Netherlands"
 
 [[talks]]
-  year = 2016
-  title = "Weakly nonlinear combustion waves"
-  event = "Rensselaer Polytechnic Institute"
-  location = "Troy, NY, USA"
+year = 2022
+title = "Solving the water-waves problem with Laplace's free-space Green function"
+event = "WAVES 2022"
+location = "Palaiseau, France"
 
 [[talks]]
-  year = 2015
-  title = "Qualitative and asymptotic theory of detonations"
-  event = "IMPA"
-  location = "Rio de Janeiro, Brazil"
+year = 2021
+title = "Nystrom methods for solving boundary integral equations"
+event = "Acoustic meeting with ONERA"
+location = "Palaiseau, France"
 
 [[talks]]
-  year = 2014
-  title = "Qualitative modeling of the dynamics of detonation with losses"
-  event = "35th International Symposium on Combustion"
-  location = "San Francisco, CA, USA"
+year = 2021
+title = "General-purpose kernel regularization of boundary integral equations via density interpolation"
+event = "Seminaire Modelisation et Calcul Scientifique"
+location = "LAGA, Universite Sorbonne, Paris Nord"
 
 [[talks]]
-  year = 2014
-  title = "Qualitative and asymptotic theory of detonations"
-  event = "SIAM Nonlinear Waves and Coherent Structures"
-  location = "Cambridge, UK"
+year = 2021
+title = "General-purpose kernel regularization of boundary integral equations via density interpolation"
+event = "MEDISIM/POEMS/IDEFIX joint workshop"
+location = "INRIA Saclay, France"
 
 [[talks]]
-  year = 2014
-  title = "An asymptotic theory of weakly non-linear detonations"
-  event = "SIAM Annual Meeting"
-  location = "Chicago, IL, USA"
+year = 2021
+title = "La simulation numérique au service des phénomènes physiques"
+event = "Unithé ou café"
+location = "INRIA Saclay, France"
 
 [[talks]]
-  year = 2013
-  title = "A nonlocal hyperbolic PDE for chaotic shocks"
-  event = "SIAM Conference on Analysis of Partial Differential Equations"
-  location = "Lake Buena Vista, FL, USA"
+year = 2020
+title = "Boundary integral equation methods on dynamic surfaces"
+event = "INRIA-Skoltech Workshop"
+location = "Online"
 
 [[talks]]
-  year = 2013
-  title = "A simple model for spherical detonation"
-  event = "24th International Colloquium on Dynamics of Explosions and Reactive Systems"
-  location = "Taipei, Taiwan"
+year = 2020
+title = "Mathematical modeling and numerical simulations of Faraday pilot waves"
+event = "PUC"
+location = "Santiago, Chile"
 
 [[talks]]
-  year = 2012
-  title = "A model for shock wave chaos"
-  event = "65th Annual Meeting of the APS Division of Fluid Dynamics"
-  location = "San Diego, CA, USA"
+year = 2019
+title = "Computing the Mandelbrot set in Julia"
+event = "SED coding dojo"
+location = "INRIA Saclay, France"
 
 [[talks]]
-  year = 2012
-  title = "A model for shock wave chaos"
-  event = "14th International Conference on Hyperbolic Problems"
-  location = "Padova, Italy"
+year = 2019
+title = "Harmonic density interpolation methods for high-order evaluation of Laplace layer potentials in 2D and 3D"
+event = "ENSTA"
+location = "Palaiseau, France"
+
+[[talks]]
+year = 2017
+title = "A model for Faraday pilot-waves over variable topography"
+event = "Universidad Autonoma de Mexico"
+location = "Mexico City, Mexico"
+
+[[talks]]
+year = 2017
+title = "Asymptotic theory of weak heat release combustion"
+event = "New Jersey Institute of Technology"
+location = "Newark, NJ, USA"
+
+[[talks]]
+year = 2016
+title = "Weakly nonlinear combustion waves"
+event = "Rensselaer Polytechnic Institute"
+location = "Troy, NY, USA"
+
+[[talks]]
+year = 2015
+title = "Qualitative and asymptotic theory of detonations"
+event = "IMPA"
+location = "Rio de Janeiro, Brazil"
+
+[[talks]]
+year = 2014
+title = "Qualitative modeling of the dynamics of detonation with losses"
+event = "35th International Symposium on Combustion"
+location = "San Francisco, CA, USA"
+
+[[talks]]
+year = 2014
+title = "Qualitative and asymptotic theory of detonations"
+event = "SIAM Nonlinear Waves and Coherent Structures"
+location = "Cambridge, UK"
+
+[[talks]]
+year = 2014
+title = "An asymptotic theory of weakly non-linear detonations"
+event = "SIAM Annual Meeting"
+location = "Chicago, IL, USA"
+
+[[talks]]
+year = 2013
+title = "A nonlocal hyperbolic PDE for chaotic shocks"
+event = "SIAM Conference on Analysis of Partial Differential Equations"
+location = "Lake Buena Vista, FL, USA"
+
+[[talks]]
+year = 2013
+title = "A simple model for spherical detonation"
+event = "24th International Colloquium on Dynamics of Explosions and Reactive Systems"
+location = "Taipei, Taiwan"
+
+[[talks]]
+year = 2012
+title = "A model for shock wave chaos"
+event = "65th Annual Meeting of the APS Division of Fluid Dynamics"
+location = "San Diego, CA, USA"
+
+[[talks]]
+year = 2012
+title = "A model for shock wave chaos"
+event = "14th International Conference on Hyperbolic Problems"
+location = "Padova, Italy"
