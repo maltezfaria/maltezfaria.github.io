@@ -373,6 +373,41 @@ year = 2017
 # ----------------
 
 [[teaching]]
+year = "2026 - 2027"
+title = "Numerical Linear Algebra"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2026-2027/ue/7679/APM-4ANN3-TA-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
+
+[[teaching]]
+year = "2026 - 2027"
+title = "Dynamical Systems: Stability and Control"
+location = "ENSTA"
+level = "1A"
+link = "https://synapses.ensta-paris.fr/catalogue/2026-2027/ue/16210/APM-3GAO1-TA-systemes-dynamiques-stabilite-et-commande"
+
+[[teaching]]
+year = "2025 - 2026"
+title = "Numerical Linear Algebra"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2025-2026/ue/7679/APM-4ANN3-TA-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
+
+[[teaching]]
+year = "2025 - 2026"
+title = "Scientific Computing in C++"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2025-2026/ue/217/APM-4SIM1-TA-programmation-scientifique-en-c"
+
+[[teaching]]
+year = "2025 - 2026"
+title = "Numerical simulation project"
+location = "ENSTA"
+level = "2A"
+link = "https://synapses.ensta-paris.fr/catalogue/2025-2026/ue/225/APM-4SIM2-TA-projet-de-simulation-numerique"
+
+[[teaching]]
 year = "2024 - 2025"
 title = "Numerical Linear Algebra"
 location = "ENSTA"
@@ -396,7 +431,7 @@ link = "https://synapses.ensta-paris.fr/catalogue/2024-2025/ue/225/APM-4SIM2-TA-
 
 [[teaching]]
 year = "2023 - 2024"
-title = "Numerical linear algebra"
+title = "Numerical Linear Algebra"
 location = "ENSTA"
 level = "2A"
 link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
@@ -417,7 +452,7 @@ link = "https://synapses.ensta-paris.fr/catalogue/2023-2024/ue/225/APM-4SIM2-TA-
 
 [[teaching]]
 year = "2022 - 2023"
-title = "Numerical linear algebra"
+title = "Numerical Linear Algebra"
 location = "ENSTA"
 level = "2A"
 link = "https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
@@ -445,7 +480,7 @@ link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/6182/AMS313-eleme
 
 [[teaching]]
 year = "2021 - 2022"
-title = "Numerical linear algebra"
+title = "Numerical Linear Algebra"
 location = "ENSTA"
 level = "2A"
 link = "https://synapses.ensta-paris.fr/catalogue/2021-2022/ue/7679/ann203-methodes-numeriques-matricielles-avancees-analyse-et-experimentation"
