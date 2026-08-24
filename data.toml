@@ -6,6 +6,30 @@
 
 [[publications]]
 category = "Preprint"
+authors = "Anderson, Thomas G and Burbano-Gallegos, Juan and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "Fast high-order solvers for the Lippmann--Schwinger equation in piecewise-smooth heterogeneous media"
+publication = "arXiv preprint arXiv:2608.17615"
+year = 2026
+arxiv_link = "https://arxiv.org/pdf/2608.17615"
+
+[[publications]]
+category = "Preprint"
+authors = "Faria, Luiz M. and Pérez-Arancibia, Carlos and Tlupova, Svetlana"
+title = "High-order kernel regularization of singular and hypersingular Helmholtz boundary integral operators"
+publication = "arXiv preprint arXiv:2604.14797"
+year = 2026
+arxiv_link = "https://arxiv.org/pdf/2604.14797"
+
+[[publications]]
+category = "Preprint"
+authors = "Anderson, Thomas G and Bonnet, Marc and Faria, Luiz M. and Pérez-Arancibia, Carlos"
+title = "A general-purpose global regularization method for 3D volume integral operators"
+publication = "arXiv preprint arXiv:2606.13549"
+year = 2026
+arxiv_link = "https://arxiv.org/pdf/2606.13549"
+
+[[publications]]
+category = "Preprint"
 authors = "Faria, Luiz M. and Marchand, Pierre and Montanelli, Hadrien"
 title = "Convergence rates of curved boundary element methods for the 3D Laplace and Helmholtz equations"
 publication = "arXiv preprint arXiv:2507.13955"
@@ -309,6 +333,14 @@ publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
 category = "Proceedings"
+authors = "Vet, Adrien and Faria, Luiz M. and de Moura Pinho, Raul and Bonnet, Marc"
+title = "Méthode d'éléments de frontière accélérée sur des structures fissurées 3D pour l'estimation de la durée de vie en fatigue"
+publication = "17ème Colloque National en Calcul des Structures"
+year = 2026
+hal_link = "https://hal.science/hal-05631866/document"
+
+[[publications]]
+category = "Proceedings"
 authors = "Anderson, Thomas G and Faria, Luiz M. and Pérez-Arancibia, Carlos"
 title = "SOLVING BOUNDARY AND VOLUME INTEGRAL EQUATIONS WITH INTI. JL"
 publication = "16th International Conference on Mathematical and Numerical Aspects of Wave Propagation, WAVES 2024"
@@ -521,9 +553,49 @@ repo = "maltezfaria/LevelSetMethods.jl"
 [[codes]]
 repo = "maltezfaria/ImplicitIntegration.jl"
 
+[[codes]]
+repo = "zmoitier/HAdaptiveIntegration.jl"
+
 # ----------------
 # -- Talks
 # ----------------
+
+[[talks]]
+year = 2026
+title = "Complex-scaled boundary integral equations for embedded eigenvalues and complex resonances"
+event = "Applied math seminar at Zhejiang University"
+location = "Hangzhou, China"
+
+[[talks]]
+year = 2026
+title = "Boundary integral equations on moving surfaces"
+event = "Seminar to INRIA evaluation committee"
+location = "Palaiseau, France"
+
+[[talks]]
+year = 2026
+title = "Numerical integration with HAdaptiveIntegration"
+event = "Cafe Julia"
+location = "Online"
+
+[[talks]]
+year = 2026
+title = "Introduction to Julia as a tool in scientific computing"
+event = "InfoMath seminar"
+location = "Sorbonne Université"
+
+[[talks]]
+year = 2026
+title = "Complex scaled integral equations for water waves"
+event = "CIEDS project meeting"
+location = "Palaiseau, France"
+
+[[talks]]
+year = 2025
+title = "Complex-scaled boundary integral equations for embedded eigenvalues and complex resonances"
+event = "Seminar on Analysis and Numerics in Grating Diffraction Problems"
+location = "Kunming, China"
+
 [[talks]]
 year = 2024
 title = "High-order boundary integral equation methods on implicit surfaces"

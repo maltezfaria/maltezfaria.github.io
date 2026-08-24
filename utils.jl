@@ -1,6 +1,7 @@
 using TOML
 using JSON
 using Downloads
+using Dates
 
 function hfun_isactive(params)
     page = params[1]
@@ -106,7 +107,13 @@ function hfun_codes()
             description = get(code, "description_override", description)
             language = repo_data["language"]
             stars = repo_data["stargazers_count"]
-            updated = repo_data["pushed_at"][1:10]
+            pushed_str = get(repo_data, "pushed_at", nothing)
+            updated = if pushed_str !== nothing
+                dt = DateTime(pushed_str, dateformat"yyyy-mm-ddTHH:MM:SSZ")
+                Dates.format(dt, "yyyy-mm-dd")
+            else
+                "Unknown"
+            end
             repo_url = repo_data["html_url"]
 
             write(io, "@@data-entry,code-entry\n")
