@@ -159,3 +159,49 @@ function hfun_talks()
     end
     return Franklin.fd2html(String(take!(io)), internal=true)
 end
+
+# Group entries by `category` (in order of first appearance), each group sorted by `start`
+function _group_by_category(entries)
+    groups = Dict{String,Vector{Any}}()
+    categories = String[]
+    for e in entries
+        cat = e["category"]
+        haskey(groups, cat) || (push!(categories, cat); groups[cat] = [])
+        push!(groups[cat], e)
+    end
+    return [(cat, sort(groups[cat], by=x -> x["start"], rev=true)) for cat in categories]
+end
+
+function hfun_service()
+    data = TOML.parsefile("data.toml")
+    io = IOBuffer()
+    for (cat, entries) in _group_by_category(get(data, "service", []))
+        write(io, "#### $cat\n\n")
+        for e in entries
+            write(io, "@@data-entry,service-entry\n**$(e["period"])**\n\n")
+            role = haskey(e, "link") ? "[$(e["role"])]($(e["link"]))" : e["role"]
+            write(io, "$role, _$(e["organization"])_", "\n@@\n")
+        end
+    end
+    journals = get(get(data, "refereeing", Dict()), "journals", [])
+    if !isempty(journals)
+        write(io, "#### Refereeing\n\nReviewer for $(join(journals, ", ")), among others.\n\n")
+    end
+    return Franklin.fd2html(String(take!(io)), internal=true)
+end
+
+function hfun_supervision()
+    data = TOML.parsefile("data.toml")
+    io = IOBuffer()
+    for (cat, entries) in _group_by_category(get(data, "supervision", []))
+        write(io, "#### $cat\n\n")
+        for e in entries
+            write(io, "@@data-entry,service-entry\n**$(e["period"])**\n\n")
+            title = haskey(e, "link") ? "[$(e["title"])]($(e["link"]))" : e["title"]
+            desc = "**$(e["name"])**, _$(title)_"
+            haskey(e, "details") && (desc *= ". $(e["details"])")
+            write(io, desc, ".\n@@\n")
+        end
+    end
+    return Franklin.fd2html(String(take!(io)), internal=true)
+end

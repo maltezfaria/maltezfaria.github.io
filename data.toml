@@ -68,6 +68,9 @@ publication = "Journal of Computational Physics"
 volume = "511"
 pages = "113091"
 year = 2024
+arxiv_link = "https://arxiv.org/pdf/2209.03844"
+hal_link = "https://hal.science/hal-04181164"
+url = "https://doi.org/10.1016/j.jcp.2024.113091"
 publisher = "Academic Press"
 
 [[publications]]
@@ -79,6 +82,7 @@ volume = "34"
 number = "3"
 pages = "273--283"
 year = 2024
+hal_link = "https://isae-ensma.hal.science/hal-04931236"
 publisher = "Springer"
 
 [[publications]]
@@ -90,6 +94,9 @@ volume = "84"
 number = "1"
 pages = "19--38"
 year = 2024
+arxiv_link = "https://arxiv.org/pdf/2303.14494"
+hal_link = "https://hal.science/hal-04219901"
+url = "https://doi.org/10.1137/23m1561865"
 publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
@@ -100,6 +107,9 @@ publication = "Computers & Mathematics with Applications"
 volume = "162"
 pages = "94--103"
 year = 2024
+arxiv_link = "https://arxiv.org/pdf/2306.13628"
+hal_link = "https://hal.science/hal-04146453"
+url = "https://doi.org/10.1016/j.camwa.2024.02.045"
 publisher = "Pergamon"
 
 [[publications]]
@@ -110,6 +120,8 @@ publication = "Computers & Fluids"
 volume = "273"
 pages = "106213"
 year = 2024
+hal_link = "https://hal.science/hal-05544147"
+url = "https://doi.org/10.1016/j.compfluid.2024.106213"
 publisher = "Pergamon"
 
 [[publications]]
@@ -121,6 +133,9 @@ volume = "150"
 number = "1"
 pages = "277--315"
 year = 2023
+arxiv_link = "https://arxiv.org/pdf/2205.11574"
+hal_link = "https://hal.science/hal-03940468"
+url = "https://doi.org/10.1111/sapm.12540"
 
 [[publications]]
 category = "Journal"
@@ -130,6 +145,8 @@ publication = "Combustion and Flame"
 volume = "240"
 pages = "112050"
 year = 2022
+hal_link = "https://hal.science/hal-03748612"
+url = "https://doi.org/10.1016/j.combustflame.2022.112050"
 publisher = "Elsevier"
 
 [[publications]]
@@ -140,6 +157,9 @@ publication = "Computer Methods in Applied Mechanics and Engineering"
 volume = "378"
 pages = "113703"
 year = 2021
+arxiv_link = "https://arxiv.org/pdf/2010.04577"
+hal_link = "https://hal.science/hal-02964015"
+url = "https://doi.org/10.1016/j.cma.2021.113703"
 publisher = "North-Holland"
 
 [[publications]]
@@ -151,6 +171,8 @@ volume = "38"
 number = "3"
 pages = "3497--3503"
 year = 2021
+hal_link = "https://hal.science/hal-02989874"
+url = "https://doi.org/10.1016/j.proci.2020.07.142"
 publisher = "Elsevier"
 
 [[publications]]
@@ -162,6 +184,9 @@ volume = "120"
 number = "16"
 pages = "164503"
 year = 2018
+arxiv_link = "https://arxiv.org/pdf/1710.05525"
+hal_link = "https://hal.science/hal-02429454"
+url = "https://doi.org/10.1103/physrevlett.120.164503"
 publisher = "American Physical Society"
 
 [[publications]]
@@ -172,6 +197,9 @@ publication = "Journal of Computational Physics"
 volume = "376"
 pages = "411--434"
 year = 2019
+arxiv_link = "https://arxiv.org/pdf/1711.04236"
+hal_link = "https://hal.science/hal-02429461"
+url = "https://doi.org/10.1016/j.jcp.2018.10.002"
 publisher = "Academic Press"
 
 [[publications]]
@@ -182,6 +210,8 @@ publication = "Chaos: An Interdisciplinary Journal of Nonlinear Science"
 volume = "28"
 number = "9"
 year = 2018
+hal_link = "https://hal.science/hal-02429465"
+url = "https://doi.org/10.1063/1.5031022"
 publisher = "AIP Publishing"
 
 [[publications]]
@@ -193,6 +223,9 @@ volume = "475"
 number = "2227"
 pages = "20190029"
 year = 2019
+arxiv_link = "https://arxiv.org/pdf/1809.05084"
+hal_link = "https://hal.science/hal-02429472"
+url = "https://doi.org/10.1098/rspa.2019.0029"
 publisher = "The Royal Society Publishing"
 
 [[publications]]
@@ -204,6 +237,9 @@ volume = "41"
 number = "4"
 pages = "A2088--A2116"
 year = 2019
+arxiv_link = "https://arxiv.org/pdf/1901.07437"
+hal_link = "https://hal.science/hal-02429685"
+url = "https://doi.org/10.1137/19m1239866"
 publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
@@ -215,6 +251,9 @@ volume = "69"
 number = "1"
 pages = "317--331"
 year = 2020
+arxiv_link = "https://arxiv.org/pdf/1910.02046"
+hal_link = "https://hal.science/hal-02429487"
+url = "https://doi.org/10.1109/tap.2020.3008616"
 publisher = "IEEE"
 
 [[publications]]
@@ -225,6 +264,8 @@ publication = "Journal of Fluid Mechanics"
 volume = "835"
 pages = "1136--1156"
 year = 2018
+hal_link = "https://hal.science/hal-02301368"
+url = "https://doi.org/10.1017/jfm.2017.790"
 publisher = "Cambridge University Press"
 
 [[publications]]
@@ -235,6 +276,9 @@ publication = "Journal of Fluid Mechanics"
 volume = "811"
 pages = "51--66"
 year = 2017
+arxiv_link = "https://arxiv.org/pdf/1701.04932"
+hal_link = "https://hal.science/hal-02429448"
+url = "https://doi.org/10.1017/jfm.2016.750"
 publisher = "Cambridge University Press"
 
 [[publications]]
@@ -246,6 +290,9 @@ volume = "139"
 number = "2"
 pages = "265--287"
 year = 2017
+arxiv_link = "https://arxiv.org/pdf/1701.05882"
+hal_link = "https://hal.science/hal-02429473"
+url = "https://doi.org/10.1111/sapm.12183"
 
 [[publications]]
 category = "Journal"
@@ -255,6 +302,9 @@ publication = "Proceedings of the Combustion Institute"
 volume = "35"
 number = "2"
 year = 2015
+arxiv_link = "https://arxiv.org/pdf/1407.8475"
+hal_link = "https://hal.science/hal-02429442"
+url = "https://doi.org/10.1016/j.proci.2014.07.006"
 publisher = "Elsevier"
 
 [[publications]]
@@ -265,6 +315,9 @@ publication = "Journal of Fluid Mechanics"
 volume = "784"
 pages = "163--198"
 year = 2015
+arxiv_link = "https://arxiv.org/pdf/1407.8466"
+hal_link = "https://hal.science/hal-02429423"
+url = "https://doi.org/10.1017/jfm.2015.577"
 publisher = "Cambridge University Press"
 
 [[publications]]
@@ -276,6 +329,9 @@ volume = "26"
 number = "2"
 pages = "141--160"
 year = 2016
+arxiv_link = "https://arxiv.org/pdf/1312.2180"
+hal_link = "https://hal.science/hal-02429450"
+url = "https://doi.org/10.1007/s00193-015-0610-3"
 publisher = "Springer"
 
 [[publications]]
@@ -287,6 +343,9 @@ volume = "76"
 number = "3"
 pages = "887--909"
 year = 2016
+arxiv_link = "https://arxiv.org/pdf/1512.07503"
+hal_link = "https://hal.science/hal-02429970"
+url = "https://doi.org/10.1137/15m1039663"
 publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
@@ -297,6 +356,8 @@ publication = "Journal of Fluid Mechanics"
 volume = "804"
 pages = "R3"
 year = 2016
+hal_link = "https://hal.science/hal-02301365"
+url = "https://doi.org/10.1017/jfm.2016.537"
 publisher = "Cambridge University Press"
 
 [[publications]]
@@ -318,6 +379,9 @@ volume = "110"
 number = "10"
 pages = "104104"
 year = 2013
+arxiv_link = "https://arxiv.org/pdf/1202.2989"
+hal_link = "https://hal.science/hal-02429416"
+url = "https://doi.org/10.1103/physrevlett.110.104104"
 publisher = "American Physical Society"
 
 [[publications]]
@@ -329,6 +393,9 @@ volume = "74"
 number = "2"
 pages = "547--570"
 year = 2014
+arxiv_link = "https://arxiv.org/pdf/1309.5080"
+hal_link = "https://hal.science/hal-02429438"
+url = "https://doi.org/10.1137/130938232"
 publisher = "Society for Industrial and Applied Mathematics"
 
 [[publications]]
@@ -345,6 +412,7 @@ authors = "Anderson, Thomas G and Faria, Luiz M. and Pérez-Arancibia, Carlos"
 title = "SOLVING BOUNDARY AND VOLUME INTEGRAL EQUATIONS WITH INTI. JL"
 publication = "16th International Conference on Mathematical and Numerical Aspects of Wave Propagation, WAVES 2024"
 year = 2024
+pdf = "https://ris.utwente.nl/ws/portalfiles/portal/445514681/4466a058-05b6-4ba7-bced-1b8f791c4e3e.pdf"
 
 [[publications]]
 category = "Proceedings"
@@ -609,18 +677,6 @@ location = "Palaiseau, France"
 
 [[talks]]
 year = 2026
-title = "Numerical integration with HAdaptiveIntegration"
-event = "Cafe Julia"
-location = "Online"
-
-[[talks]]
-year = 2026
-title = "Introduction to Julia as a tool in scientific computing"
-event = "InfoMath seminar"
-location = "Sorbonne Université"
-
-[[talks]]
-year = 2026
 title = "Complex scaled integral equations for water waves"
 event = "CIEDS project meeting"
 location = "Palaiseau, France"
@@ -798,3 +854,123 @@ year = 2012
 title = "A model for shock wave chaos"
 event = "14th International Conference on Hyperbolic Problems"
 location = "Padova, Italy"
+
+# ----------------
+# -- Service
+# ----------------
+# `start` is used for sorting (most recent first); `period` is what is displayed.
+# `category` groups entries on the page, in order of first appearance.
+
+[[service]]
+category = "Responsibilities"
+period = "2026–present"
+start = 2026
+role = "Deputy coordinator (with Muriel Boulakia, coordinator) of the MathCSI thematic programme"
+organization = "Fondation Mathématique Jacques Hadamard (FMJH)"
+link = "https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/maths-csi/"
+
+[[service]]
+category = "Responsibilities"
+period = "2025–present"
+start = 2025
+role = "Inria Saclay scientific representative, Commission Information et Éditions Scientifiques (IES)"
+organization = "Inria"
+
+[[service]]
+category = "Responsibilities"
+period = "2024–2028"
+start = 2024
+role = "Co-coordinator (with Maryna Kachanovska) of the CIEDS project NOLONDE"
+organization = "ENSTA Paris"
+
+[[service]]
+category = "Responsibilities"
+period = "2022–present"
+start = 2022
+role = "Member, Commission de Développement Technologique (CDT)"
+organization = "Inria Saclay"
+
+[[service]]
+category = "Committees and events"
+period = "2026"
+start = 2026
+role = "Scientific committee (MathCSI programme), Interactive Mathematics Day"
+organization = "FMJH, IHES"
+link = "https://fondation-hadamard.fr/en/events/thematic-days/interactive-mathematics-day/"
+
+[[service]]
+category = "Committees and events"
+period = "2024"
+start = 2024
+role = "Scientific committee, WAVES 2024"
+organization = "Berlin, Germany"
+link = "https://waves2024.mps.mpg.de"
+
+[[service]]
+category = "Committees and events"
+period = "2022"
+start = 2022.5
+role = "Organizing committee, WAVES 2022"
+organization = "Palaiseau, France"
+link = "https://waves2022.apps.math.cnrs.fr/organizing-team/"
+
+[[service]]
+category = "Committees and events"
+period = "2022"
+start = 2022
+role = "Organizing committee, workshop in honor of Marc Bonnet's 60th birthday"
+organization = "ENSTA Paris, Palaiseau"
+
+[[service]]
+category = "Training"
+period = "2026"
+start = 2026.8
+role = "Lecturer, Julia4HPC: Formation au langage Julia pour le calcul haute performance (CNRS Action Nationale de Formation, October 12–16)"
+organization = "Groupe Calcul, Fréjus"
+link = "https://julia4hpc.sciencesconf.org/"
+
+[[service]]
+category = "Training"
+period = "2026"
+start = 2026.4
+role = "Café Julia: Intégration numérique adaptative avec HAdaptiveIntegration.jl (May 22)"
+organization = "Groupe Calcul, online"
+
+[[service]]
+category = "Training"
+period = "2026"
+start = 2026.1
+role = "Introduction au langage Julia, InfoMath seminar (February 5)"
+organization = "Sorbonne Université, Paris"
+
+[refereeing]
+journals = ["Journal of Computational Physics", "SIAM Journal on Scientific Computing", "Advances in Computational Mathematics"]
+
+# ----------------
+# -- Supervision
+# ----------------
+
+[[supervision]]
+category = "PhD students"
+period = "2024–present"
+start = 2024
+name = "Adrien Vet"
+title = "Accelerated boundary element methods for crack dynamics in 3D"
+details = "CIFRE with SAFRAN; co-advised with Marc Bonnet and Raul De Moura Pinho"
+
+[[supervision]]
+category = "PhD students"
+period = "2022–2025"
+start = 2022
+name = "Dongchen He"
+title = "Boundary integral equations on implicit surfaces: application to deformable surfaces in Stokes flows"
+details = "Co-advised with Aline Lefebvre-Lepot; defended October 2025"
+link = "https://theses.fr/2025IPPAE012"
+
+[[supervision]]
+category = "Master's students"
+period = "2024"
+start = 2024
+name = "Mohammed Chaibi"
+title = "Time-domain scattering of waves in the presence of unbounded interfaces"
+details = "Co-advised with Maryna Kachanovska"

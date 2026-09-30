@@ -250,6 +250,10 @@ td {
   margin-bottom: 0.4em;
 }
 
+.service-entry {
+  margin-bottom: 0.6em;
+}
+
 .code-entry {
   display: flex;
   margin-bottom: 1.5em;
